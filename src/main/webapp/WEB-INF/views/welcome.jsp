@@ -3,6 +3,10 @@
 <title>Yahoo!!</title>
 </head>
 <body>
-Welcome ${name}
+<H1>Welcome ${name}</H2>
+<div>
+Your Todos are
+${todos}
+</div>
 </body>
 </html>
